@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Model Weights
+*.pt
+*.pth
+*.ckpt
+
+# YOLO Training Outputs
+runs/
+wandb/
+
+# Dataset
+datasets/
+data/
+
+# Results
+predictions/
+outputs/
+results/
+
+# Temporary Files
+tmp/
+temp/
+
+# Flask
+instance/
+.webassets-cache
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
