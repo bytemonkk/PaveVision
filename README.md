@@ -321,7 +321,7 @@ CBIT
 * Mobile Deployment
 * Edge AI Inference
 * Predictive Maintenance Analytics
-* Smart City Infrastructure Monitoring using Drone shorts.
+* Smart City Infrastructure Monitoring
 
 ---
 
