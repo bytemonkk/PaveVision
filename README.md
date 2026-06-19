@@ -25,7 +25,7 @@ AI-Powered Pavement Distress Detection and PCI Estimation Using YOLOv8
 
 ## Overview
 
-PaveVision is an intelligent pavement assessment that combines Deep Learning, Computer Vision, and Civil Engineering principles for automated road condition monitoring.
+PaveVision is an intelligent pavement assessment system that combines Deep Learning, Computer Vision, and Civil Engineering principles for automated road condition monitoring.
 
 The system utilizes a YOLOv8-based object detection framework to identify, classify, and quantify various pavement distresses, including cracks, potholes, patching, and rutting. Detected distress information is further integrated with Pavement Condition Index (PCI) computation based on IRC:82:2023 guidelines to provide objective road condition assessment and maintenance recommendations.
 
